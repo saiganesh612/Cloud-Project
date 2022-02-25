@@ -1,0 +1,22 @@
+.card {
+    margin: 1em;
+    box-shadow: 0 2px 20px rgb(0 0 0 / 20%);
+    border-radius: 10px !important;
+}
+
+.card-body {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.card-img-top {
+    width: 250px;
+    height: 250px;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+.card-text{
+    font-size: .8em;
+    color: grey;
+}
